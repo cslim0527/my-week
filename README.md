@@ -10,3 +10,10 @@ http://chansoo.shop/
 - react-router 개념 및 사용법
 - styled-components 사용법
 - useEffect를 통한 상태관리 및 이벤트 해제
+
+## Branch
+master
+- 최종 업로드 브랜치
+
+chansoo
+- 개발하여 업로드하는 브랜치
